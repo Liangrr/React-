@@ -13,10 +13,10 @@ class MenuExample extends React.Component {
     this.state = {
       initData: '',
       show: false,
-      title:'主题',
+      title:'Hello Word',
       obj:{
         hello:false,
-        install:false,
+        install:true,
         jsxIntroduce:false
       }
     };
